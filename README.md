@@ -41,9 +41,9 @@ This project will be based on exploration rather than confirmation.
 
 ### II. 	Development Process:  
 
-#### Data wrangling:  
+#### 1) Data wrangling:  
 
-**Approach:** 
+#### 2) Approach:
 
 **Claim:** 
 
