@@ -13,12 +13,12 @@
 ### I.	Project statement: 
 
 **Motivation:**
-Now-a-days, data visualization is becoming one powerful communication tool. These visualizations can be used to support arguments in different ways that can be engaging and accesible.
-We can see a huge rise in the popularity of data visualization over the past decade. Different people are coming up with their own charts and visuals, which could be a good thing. But, this in turn also poses a unique problem. Despite the availability of some great charting resources, we are witnessing an influx of poorly-designed misleading  or downright deceptive data visualizations.
-This visualization is to prove the point just mentioned above. With this project, I will try to decieve my audience to make a point, visuals created should be well backed by data and proofs.
+The motivation for this project came from my earlier project that I have done on Mass shootings in the states. My main driving source for taking up this challenging project was to see that what are the underlying causes of so many mass shootings in the states and to prove or discredit the theory that the media has been talking about that the lenient gun laws are the root cause of people with or without criminal history killing innocent citizens without any cause.In my  My deception project I have tried to do something different but related to Gun Laws. I plan to analyze data on suicides in the states using Gun and see where it leads me. After finishing up the Project I hope to achieve a clear understanding of why such heinous crimes took place and are suicide related to gun laws in any way.
+
+
 
 **Objective:** 
-The objective of this redesign project is to take an existing visualization, and redo the same to discover new effective metrics to better portray the message
+Today, data is become a driving force to make decisions  affecting millions of people. Since this is a deceptive project, I will try to show what the data actually tells its viewer and how can it be manipulated to something completely different and misleading to convince people otherwise.  
 
 **Data:**
 The data that I have analyzed came from Kaggle, and I used an existing visualization done on this data by Cleuton Sampaio to first understand his findings, present my thoughts about it, criticize it, and do a better Visualization using the same data and same metrics that the author of the original Visualization used.
