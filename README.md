@@ -43,6 +43,15 @@ This project will be based on exploration rather than confirmation.
 
 #### Data wrangling:  
 
+#### Approach: 
+
+##### Claim: 
+
+##### Data: 
+
+##### Warrant: 
+
+#### Backing: 
 
 ******************************************************************************************************************************
 
