@@ -65,6 +65,16 @@ This project will be based on exploration rather than confirmation.
 
 ### V. References:
 
+* http://www.slate.com/blogs/the_slatest/2015/10/07/gun_control_laws_by_state_oregon_new_york_texas_california.html
+* https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
+* https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm
+* https://www.bjs.gov/index.cfm?ty=pbdetail&iid=5804
+* https://www.usnews.com/news/best-states/articles/2017-05-24/database-reveals-striking-differences-in-how-guns-are-regulated-from-state-to-state
+* https://www.theguardian.com/news/datablog/2011/jan/10/gun-crime-us-state#data
+* https://www.statcrunch.com/app/index.php?dataid=1880699
+* https://www.cdc.gov/nchs/pressroom/states/california/california.htm
+* https://www.kaggle.com/walgemei/eda-the-usa-mass-shootings
+
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 
