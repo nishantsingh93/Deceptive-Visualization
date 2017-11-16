@@ -21,9 +21,13 @@ The motivation for this project came from my earlier project that I have done on
 Today, data is become a driving force to make decisions  affecting millions of people. Since this is a deceptive project, I will try to show what the data actually tells its viewer and how can it be manipulated to something completely different and misleading to convince people otherwise.  
 
 **Data:**
-The data that I have analyzed came from Kaggle, and I used an existing visualization done on this data by Cleuton Sampaio to first understand his findings, present my thoughts about it, criticize it, and do a better Visualization using the same data and same metrics that the author of the original Visualization used.
+The data I have found for this project is from Centers for Disease Control and Prevention data base by using their wisqars platform.  But before extracting the relevant data, following filters have  to be applied:
 
-* Link of the data set: https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years/data 
+1. In report type go to Incidents of Violence and check the field All Violent Incident Counts and Percentages
+2. 
+
+* Link of the data set: https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
+
 
 **Project plan:**
 This project will be based on exploration rather than confirmation.
