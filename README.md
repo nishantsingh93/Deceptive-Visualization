@@ -88,6 +88,15 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 
 ### III.	 Analyzing Intermediate Versions of visualization:
 
+Colour Code is Same throughout the Visualization. The reason it has been done so that it is easier for the audience to remember states by colour. The colour code is given as follows:
+1) New Jersey - Light Teal
+2) Massachusetts - Red 
+3) Maryland - Orange 
+4) Alaska - Blue 
+5) Oregon - Green 
+6) Virginia - Purple
+7) South Carolina - Yellow 
+
 **Visualization 1:** 
 <img width="565" alt="screen shot 2017-11-17 at 2 02 26 am" src="https://user-images.githubusercontent.com/25557540/32941948-5e580f9e-cb3c-11e7-98a7-563646519a0c.png">
 
@@ -146,14 +155,13 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 **Visualization 6:**
 <img width="1107" alt="screen shot 2017-11-17 at 3 44 09 pm" src="https://user-images.githubusercontent.com/25557540/32973778-7e7c9228-cbae-11e7-8ee7-d0c23d89e90b.png">
 
-
-
 * Pros:
+1) This is the intermediate Final visualization which represents the average number of suicides and the percentage of the population the suicide death constitutes
+2) Dual axis has been used to visualize the trends that we get and see if data is intersecting anywhere 
 
 * Cons:
-
-
-
+1) The shapes are confusing and can be done more simpler 
+2) Dual axis not required here to better present the data 
 
 
 ******************************************************************************************************************************
