@@ -49,7 +49,7 @@ This project will be based on exploration rather than confirmation.
 #### 1) Data wrangling:
 Data wrangling steps have been written in the python notebook. In order to show the deception I had to find population for every states for every year from google and incorporate that in the python notebook.
 The web query used for the population was, just replacing the state and year in question:
-https://www.google.com/search?rlz=1C5CHFA_enUS726US727&ei=e8QOWs_wO8uN0wLd2IfYAg&q=population+of+state+in++Year&oq=population+of+state+in++year&gs_l=psy-ab.3...724.2953.0.3336.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.ePY34O6oGUk
+* https://www.google.com/search?rlz=1C5CHFA_enUS726US727&ei=e8QOWs_wO8uN0wLd2IfYAg&q=population+of+state+in++Year&oq=population+of+state+in++year&gs_l=psy-ab.3...724.2953.0.3336.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.ePY34O6oGUk
 
 
 #### 2) Approach:
@@ -163,6 +163,14 @@ The data is collected from cdc which did a federal funded study in the 7 states 
 * So far the audience might feel that the pro no gun law states have fewer suicides by guns then pro No Gun Laws states. 
 
 **Visual 2:**
+
+* This is the interesting visualization where we can see the deception by just showing the percentage of population taking their own life using firearms. 
+* The magic of percentage over data is clearly evident from this visualization 
+* Alaska has the least no of suicides but has the highest death percentage. A recent study has indicated as we move up up the latitude the suicide rate increase. The possible reasons could be that the people get depressed in cold dark regions very soon and just shoot themselves.
+* The reason why Alaska has the highest percentage here due to the fact that it has very low population and the suicide to population percentage is thus very high compared to others.
+* Again Oregon has lower no of deaths than south Carolina but has higher percentage of firearms than South Carolina as when we take population in account the,  their size becomes a really important part of this discussion 
+* Virginia has the highest gun suicide numbers but its somewhere in the middle when it comes to death by population percentage because of the fact that Virginia has a population of approx. 8 million.
+* The top 3 most gun restrictive state follow the same trend as the earlier graph as the they don’t have a very big gap in population and more importantly the ratio of the death to population is not very big
 
 
 ******************************************************************************************************************************
