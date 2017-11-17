@@ -56,6 +56,7 @@ https://www.google.com/search?rlz=1C5CHFA_enUS726US727&ei=e8QOWs_wO8uN0wLd2IfYAg
 
 For doing this deceptive visualization I  went through many articles studying about the gun violence and in particular suicides cases where some form of guns were used.  
 
+**Audience:**
 
 **Claim:** 
 
@@ -147,11 +148,33 @@ The data is collected from cdc which did a federal funded study in the 7 states 
 
 ### IV.	Final data visualization:
 
+![dashboard 1 1](https://user-images.githubusercontent.com/25557540/32945974-757d55ea-cb4a-11e7-92f9-c20bf83b112a.png)
+
+#### Discusiion: 
+
+**Visual 1:**
+* In the final visualization, we can see that there is no actual trend between the suicide by firearm and the gun restrictiveness of the state
+* Alaska has the least suicide death because compared to others as it does a large population as the other states in the study 
+* Virginia is kind of neutral in gun laws likes to describe itself neither pro-gun law nor a pro no gun law kind of state. So people are free to buy guns and  when their mental states is not at its best they tend to shoot themselves
+* The Next two states South Carolina and Virginia are two most lenient and pro No Gun law state and as it is evident from the visual, lot of people are taking their lives when they get depressed
+* Now we look at the top three Pro-Gun Law States, and as we can see that they are in the middle of the scatter plot differing by small numbers. 
+* Massachusetts, the third highest gun restrictive state has very few gun suicides which can make for a case that yes the law is preventing people to buy guns and shoot themselves
+* New Jersey, and Maryland the 2nd and 4th most restrictive gun law states have also low gun suicides compared to their counterparts, bolstering the above claim.
+* So far the audience might feel that the pro no gun law states have fewer suicides by guns then pro No Gun Laws states. 
+
+**Visual 2:**
 
 
 ******************************************************************************************************************************
+### V. Future Enhancements:
 
-### V. References:
+* Include more data from other states to form a better case and more concrete evidence 
+* Add data From different Gun Violence sources such as Gun homicides, Mass shootings, robbery 
+* Add data for the type of guns that were most commonly being used to see which firearms are causing more harm to the society 
+* Include mental data to understand the underlying cause for these suicides 
+
+******************************************************************************************************************************
+### VI. References:
 
 * http://www.slate.com/blogs/the_slatest/2015/10/07/gun_control_laws_by_state_oregon_new_york_texas_california.html
 * https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
