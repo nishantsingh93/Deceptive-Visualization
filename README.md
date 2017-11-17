@@ -15,8 +15,6 @@
 **Motivation:**
 The motivation for this project came from my earlier project that I have done on Mass shootings in the states. My main driving source for taking up this challenging project was to see that what are the underlying causes of so many mass shootings in the states and to prove or discredit the theory that the media has been talking about that the lenient gun laws are the root cause of people with or without criminal history killing innocent citizens without any cause.In my  My deception project I have tried to do something different but related to Gun Laws. I plan to analyze data on suicides in the states using Gun and see where it leads me. After finishing up the Project I hope to achieve a clear understanding of why such heinous crimes took place and are suicide related to gun laws in any way.
 
-
-
 **Objective:** 
 Today, data is become a driving force to make decisions  affecting millions of people. Since this is a deceptive project, I will try to show what the data actually tells its viewer and how can it be manipulated to something completely different and misleading to convince people otherwise.  
 
@@ -45,9 +43,11 @@ This project will be based on exploration rather than confirmation.
 
 ### II. 	Development Process:  
 
-#### 1) Data wrangling:  
+#### 1) Data wrangling:
 
 #### 2) Approach:
+
+For doing this deceptive visualization I  went through many arctiles studying about the gun violience and in particular suicides cases where some form of guns were used.  
 
 **Claim:** 
 
@@ -59,11 +59,60 @@ This project will be based on exploration rather than confirmation.
 
 ******************************************************************************************************************************
 
-### III.	 Analyzing Intermediate Versions of visualization 
+### III.	 Analyzing Intermediate Versions of visualization:
+
+**Visualization 1:**
+<img width="565" alt="screen shot 2017-11-17 at 2 02 26 am" src="https://user-images.githubusercontent.com/25557540/32941948-5e580f9e-cb3c-11e7-98a7-563646519a0c.png">
+
+* Pros:
+
+* Cons:
+
+**Visualization 2:**
+<img width="1056" alt="screen shot 2017-11-17 at 2 07 32 am" src="https://user-images.githubusercontent.com/25557540/32941955-5f024b76-cb3c-11e7-8464-10d8251dc2e3.png">
+
+* Pros:
+
+* Cons:
+
+**Visualization 3:**
+<img width="1058" alt="screen shot 2017-11-17 at 2 03 14 am" src="https://user-images.githubusercontent.com/25557540/32941950-5e77ff16-cb3c-11e7-8a5d-ada951af2a99.png">
+
+* Pros:
+
+* Cons:
+
+**Visualization 4:**
+<img width="1056" alt="screen shot 2017-11-17 at 2 03 51 am" src="https://user-images.githubusercontent.com/25557540/32941951-5e8f1336-cb3c-11e7-9375-7bb1c1f2000d.png">
+
+* Pros:
+
+* Cons:
+
+**Visualization 5:**
+<img width="1052" alt="screen shot 2017-11-17 at 2 04 41 am" src="https://user-images.githubusercontent.com/25557540/32941952-5eb3719a-cb3c-11e7-9cae-95e013a0b30e.png">
+
+* Pros:
+
+* Cons:
+
+**Visualization 6:**
+<img width="767" alt="screen shot 2017-11-17 at 2 05 21 am" src="https://user-images.githubusercontent.com/25557540/32941954-5ee3de5c-cb3c-11e7-8155-cba5201c4acd.png">
+
+
+* Pros:
+
+* Cons:
+
+
+
+
 
 ******************************************************************************************************************************
 
 ### IV.	Final data visualization:
+
+
 
 ******************************************************************************************************************************
 
