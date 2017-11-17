@@ -1,7 +1,7 @@
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 
-# Deceptive Visualization- Gun Sucides in US 
+# Deceptive Visualization- Gun Suicides in US 
 
 ###### Date: 17th Nov 2017                                                                                                     
 ###### Tableau Visual: 
@@ -49,7 +49,7 @@ This project will be based on exploration rather than confirmation.
 #### 1) Data wrangling:
 Data wrangling steps have been written in the python notebook. In order to show the deception I had to find population for every states for every year from google and incorporate that in the python notebook.
 The web query used for the population was, just replacing the state and year in question:
-* https://www.google.com/search?rlz=1C5CHFA_enUS726US727&ei=e8QOWs_wO8uN0wLd2IfYAg&q=population+of+state+in++Year&oq=population+of+state+in++year&gs_l=psy-ab.3...724.2953.0.3336.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.ePY34O6oGUk
+* https://www.google.com/searchrlz=1C5CHFA_enUS726US727&ei=e8QOWs_wO8uN0wLd2IfYAg&q=population+of+state+in++Year&oq=population+of+state+in++year&gs_l=psy-ab.3...724.2953.0.3336.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.ePY34O6oGUk
 
 
 #### 2) Approach:
