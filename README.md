@@ -91,22 +91,34 @@ For doing this deceptive visualization I  went through many arctiles studying ab
 <img width="1057" alt="screen shot 2017-11-17 at 2 44 55 am" src="https://user-images.githubusercontent.com/25557540/32943629-909ca06e-cb41-11e7-8341-02bc49419cc6.png">
 
 * Pros:
+1) This visual is again an extension of the previous visual and it has a trend!!!
+2) The best thing about this is that we can see how the rates have change over the year in suicide rates 
+3) Also the trend line indicates what the future holds for that state in terms of Gun Suicide if the relevant people don’t take any steps 
 
 * Cons:
+1) Lot of colors and can be done more simply 
+2) Viewer might form an idea that is bad choice for a deceptive project as how can data be manipulated here 
 
 **Visualization 4:**
 <img width="1056" alt="screen shot 2017-11-17 at 2 03 51 am" src="https://user-images.githubusercontent.com/25557540/32941951-5e8f1336-cb3c-11e7-9375-7bb1c1f2000d.png">
 
 * Pros:
+1) This visual takes the most restrictive state and tries to represent Gun Suicides in that states
+2) The main purpose here was to let the viewers know the average  suicide numbers  in the Most restrictive state.
+3) This should make the viewer think if this is  just the suicide data than how would the visual look like if every gun homicide is included 
 
 * Cons:
+1) No trace of deception development 
 
 **Visualization 5:**
 <img width="1052" alt="screen shot 2017-11-17 at 2 04 41 am" src="https://user-images.githubusercontent.com/25557540/32941952-5eb3719a-cb3c-11e7-9cae-95e013a0b30e.png">
 
 * Pros:
+1) This visual takes the least restrictive state and tries to represent Gun Suicides in that states
+2) Now the viewers can notice that the Suicides by Gun is more in a state that has lenient laws when it comes to firearms
 
 * Cons:
+1) Now seeing this visual the viewers might assume that lenient states have more suicides compared to restrictive states  
 
 **Visualization 6:**
 <img width="767" alt="screen shot 2017-11-17 at 2 05 21 am" src="https://user-images.githubusercontent.com/25557540/32941954-5ee3de5c-cb3c-11e7-8155-cba5201c4acd.png">
