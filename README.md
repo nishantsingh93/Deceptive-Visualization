@@ -188,13 +188,15 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 ******************************************************************************************************************************
 ### V. Future Enhancements:
 
-* Improvement - Include more data from other states to form a better case and more concrete evidence 
- Benfit- 
+1) Improvement - Include more data from other states to form a better case and more concrete evidence 
+*  Outcome- 
+2) Improvement - Add data From different Gun Violence sources such as Gun homicides, Mass shootings, robbery 
+*  Outcome-
+3) Improvement - Add data for the type of guns that were most commonly being used to see which firearms are causing more harm to the society 
+*  Outcome-
 
-* Improvement - Add data From different Gun Violence sources such as Gun homicides, Mass shootings, robbery 
- Benfit-
-* Add data for the type of guns that were most commonly being used to see which firearms are causing more harm to the society 
-* Include mental data to understand the underlying cause for these suicides 
+3) Improvement - Include mental data to understand the underlying cause for these suicides 
+*  Outcome-
 
 ******************************************************************************************************************************
 ### VI. References:
