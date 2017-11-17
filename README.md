@@ -79,11 +79,16 @@ For doing this deceptive visualization I  went through many arctiles studying ab
 <img width="1056" alt="screen shot 2017-11-17 at 2 07 32 am" src="https://user-images.githubusercontent.com/25557540/32941955-5f024b76-cb3c-11e7-8464-10d8251dc2e3.png">
 
 * Pros:
+1) This visual is way better than my previous visual as it starts telling us a story 
+2) This visual is representing number of total suicides every year from 2003 to 2014 
+3) It also shows the distribution of avg. number of suicides to let the viewers form and idea in terms of which state  has more average suicide rate 
 
 * Cons:
+1) The claim and  the visual still have no relation whatsoever. 
+2) Something more can be done to better represent the data and show the objective of the visual 
 
 **Visualization 3:**
-<img width="1058" alt="screen shot 2017-11-17 at 2 03 14 am" src="https://user-images.githubusercontent.com/25557540/32941950-5e77ff16-cb3c-11e7-8a5d-ada951af2a99.png">
+<img width="1057" alt="screen shot 2017-11-17 at 2 44 55 am" src="https://user-images.githubusercontent.com/25557540/32943629-909ca06e-cb41-11e7-8341-02bc49419cc6.png">
 
 * Pros:
 
