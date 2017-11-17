@@ -22,7 +22,10 @@ Today, data is become a driving force to make decisions  affecting millions of p
 The data I have found for this project is from Centers for Disease Control and Prevention data base by using their wisqars platform.  But before extracting the relevant data, following filters have  to be applied:
 
 1. In report type go to Incidents of Violence and check the field All Violent Incident Counts and Percentages
-2. 
+2. Select suicide in intent or manner of injury based on the abstractor
+3. Select Firearm in cause or mechanism of the injury
+4. Select All years of report for the report generation 
+5. Select Spreadsheet as the type of report and submit 
 
 * Link of the data set: https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
 
