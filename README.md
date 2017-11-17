@@ -64,12 +64,16 @@ For doing this deceptive visualization I  went through many arctiles studying ab
 
 ### III.	 Analyzing Intermediate Versions of visualization:
 
-**Visualization 1:**
+**Visualization 1:** 
 <img width="565" alt="screen shot 2017-11-17 at 2 02 26 am" src="https://user-images.githubusercontent.com/25557540/32941948-5e580f9e-cb3c-11e7-98a7-563646519a0c.png">
 
 * Pros:
+1) This visual shows ranking of states from High to low based on Gun Restriction Law in their states
+2) The layman opinion that we can form from this visual going forward is the most restrictive states should have less number of suicides using guns  
 
-* Cons:
+* Cons: 
+1) The visual is incomplete and just shows the ranking based on which we can form different opinions 
+2) More data is needed to start showing the what I want to the people to see 
 
 **Visualization 2:**
 <img width="1056" alt="screen shot 2017-11-17 at 2 07 32 am" src="https://user-images.githubusercontent.com/25557540/32941955-5f024b76-cb3c-11e7-8464-10d8251dc2e3.png">
