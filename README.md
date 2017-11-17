@@ -47,16 +47,27 @@ This project will be based on exploration rather than confirmation.
 ### II. 	Development Process:  
 
 #### 1) Data wrangling:
+Data wrangling steps have been written in the python notebook. In order to show the deception I had to find population for every states for every year from google and incorporate that in the python notebook.
+The web query used for the population was, just replacing the state and year in question:
+https://www.google.com/search?rlz=1C5CHFA_enUS726US727&ei=e8QOWs_wO8uN0wLd2IfYAg&q=population+of+state+in++Year&oq=population+of+state+in++year&gs_l=psy-ab.3...724.2953.0.3336.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.ePY34O6oGUk
+
 
 #### 2) Approach:
 
-For doing this deceptive visualization I  went through many arctiles studying about the gun violience and in particular suicides cases where some form of guns were used.  
+For doing this deceptive visualization I  went through many articles studying about the gun violence and in particular suicides cases where some form of guns were used.  
+
 
 **Claim:** 
 
+**Qualifier:**
+The qualifier for this data is take in such a way that every group is being represented. There are top gun restrictive states and then there are the least gun restrictive States for the deceptive project.
+
 **Data:**
+The data is collected from cdc which did a federal funded study in the 7 states which were New jersey, Massachusetts, Maryland,Alaska, Oregon, Virginia and South Carolina from 2003 to 2014.The data is highly credible and contamination free. 
 
 **Warrant:**
+
+
 
 **Backing:** 
 
@@ -151,6 +162,7 @@ For doing this deceptive visualization I  went through many arctiles studying ab
 * https://www.statcrunch.com/app/index.php?dataid=1880699
 * https://www.cdc.gov/nchs/pressroom/states/california/california.htm
 * https://www.kaggle.com/walgemei/eda-the-usa-mass-shootings
+* https://www.adn.com/alaska-news/article/study-suggests-connection-between-alaska-suicide-rates-higher-latitudes/2013/11/23/
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
