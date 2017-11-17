@@ -112,7 +112,7 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 2) Something more can be done to better represent the data and show the objective of the visual 
 
 **Visualization 3:**
-<img width="1057" alt="screen shot 2017-11-17 at 2 44 55 am" src="https://user-images.githubusercontent.com/25557540/32943629-909ca06e-cb41-11e7-8341-02bc49419cc6.png">
+<img width="1097" alt="screen shot 2017-11-17 at 3 38 14 pm" src="https://user-images.githubusercontent.com/25557540/32973764-582c5158-cbae-11e7-9139-23fe3efe05a5.png">
 
 * Pros:
 1) This visual is again an extension of the previous visual and it has a trend!!!
@@ -124,8 +124,7 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 2) Viewer might form an idea that is bad choice for a deceptive project as how can data be manipulated here 
 
 **Visualization 4:**
-<img width="1056" alt="screen shot 2017-11-17 at 2 03 51 am" src="https://user-images.githubusercontent.com/25557540/32941951-5e8f1336-cb3c-11e7-9375-7bb1c1f2000d.png">
-
+<img width="1100" alt="screen shot 2017-11-17 at 3 39 04 pm" src="https://user-images.githubusercontent.com/25557540/32973772-6d0e31e0-cbae-11e7-899d-8bcb5cd18183.png">
 * Pros:
 1) This visual takes the most restrictive state and tries to represent Gun Suicides in that states
 2) The main purpose here was to let the viewers know the average suicide numbers in the Most restrictive state.
@@ -135,7 +134,7 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 1) No trace of deception development 
 
 **Visualization 5:**
-<img width="1052" alt="screen shot 2017-11-17 at 2 04 41 am" src="https://user-images.githubusercontent.com/25557540/32941952-5eb3719a-cb3c-11e7-9cae-95e013a0b30e.png">
+<img width="1093" alt="screen shot 2017-11-17 at 3 39 38 pm" src="https://user-images.githubusercontent.com/25557540/32973773-6d28223a-cbae-11e7-92e3-4583b8adab90.png">
 
 * Pros:
 1) This visual takes the least restrictive state and tries to represent Gun Suicides in that states
@@ -145,7 +144,8 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 1) Now seeing this visual the viewers might assume that lenient states have more suicides compared to restrictive states  
 
 **Visualization 6:**
-<img width="767" alt="screen shot 2017-11-17 at 2 05 21 am" src="https://user-images.githubusercontent.com/25557540/32941954-5ee3de5c-cb3c-11e7-8155-cba5201c4acd.png">
+<img width="1107" alt="screen shot 2017-11-17 at 3 44 09 pm" src="https://user-images.githubusercontent.com/25557540/32973778-7e7c9228-cbae-11e7-8ee7-d0c23d89e90b.png">
+
 
 
 * Pros:
@@ -160,7 +160,7 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 
 ### IV.	Final data visualization:
 
-![dashboard 1 1](https://user-images.githubusercontent.com/25557540/32945974-757d55ea-cb4a-11e7-92f9-c20bf83b112a.png)
+<img width="1100" alt="screen shot 2017-11-17 at 3 44 21 pm" src="https://user-images.githubusercontent.com/25557540/32973780-7e92d362-cbae-11e7-87db-c84c788d6fe5.png">
 
 #### Discusiion: 
 
@@ -189,14 +189,14 @@ The warrant for the claim has been discussed in detail in the Final Visualizatio
 ### V. Future Enhancements:
 
 1) Improvement - Include more data from other states to form a better case and more concrete evidence 
-*  Outcome- 
+*  Outcome - 
 2) Improvement - Add data From different Gun Violence sources such as Gun homicides, Mass shootings, robbery 
-*  Outcome-
+*  Outcome -
 3) Improvement - Add data for the type of guns that were most commonly being used to see which firearms are causing more harm to the society 
-*  Outcome-
+*  Outcome -
 
 3) Improvement - Include mental data to understand the underlying cause for these suicides 
-*  Outcome-
+*  Outcome -
 
 ******************************************************************************************************************************
 ### VI. References:
