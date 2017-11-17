@@ -80,10 +80,9 @@ The qualifier for this data is taken in such a way that every group is being rep
 The data is collected from CDC which did a federally funded study in the 7 states which were New Jersey, Massachusetts, Maryland, Alaska, Oregon, Virginia and South Carolina from 2003 to 2014.The data is highly credible and contamination free. 
 
 **Warrant:**
+The warrant for the claim has been discussed in detail in the Final Visualization section.
 
-
-
-**Backing:** 
+**Backing:**  The Backing for the warrant is the data itself which shows clear trends on what has been happening
 
 ******************************************************************************************************************************
 
@@ -189,8 +188,11 @@ The data is collected from CDC which did a federally funded study in the 7 state
 ******************************************************************************************************************************
 ### V. Future Enhancements:
 
-* Include more data from other states to form a better case and more concrete evidence 
-* Add data From different Gun Violence sources such as Gun homicides, Mass shootings, robbery 
+* Improvement - Include more data from other states to form a better case and more concrete evidence 
+ Benfit- 
+
+* Improvement - Add data From different Gun Violence sources such as Gun homicides, Mass shootings, robbery 
+ Benfit-
 * Add data for the type of guns that were most commonly being used to see which firearms are causing more harm to the society 
 * Include mental data to understand the underlying cause for these suicides 
 
