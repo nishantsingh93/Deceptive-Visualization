@@ -16,12 +16,12 @@
 The motivation for this project came from my earlier project that I have done on Mass shootings in the states. My main driving source for taking up this challenging project was to see that what are the underlying causes of so many mass shootings in the states and to prove or discredit the theory that the media has been talking about that the lenient gun laws are the root cause of people with or without criminal history killing innocent citizens without any cause.In my  My deception project I have tried to do something different but related to Gun Laws. I plan to analyze data on suicides in the states using Gun and see where it leads me. After finishing up the Project I hope to achieve a clear understanding of why such heinous crimes took place and are suicide related to gun laws in any way.
 
 **Objective:** 
-Today, data is become a driving force to make decisions  affecting millions of people. Since this is a deceptive project, I will try to show what the data actually tells its viewer and how can it be manipulated to something completely different and misleading to convince people otherwise.  
+Today, data becomes a driving force to make decisions affecting millions of people. Since this is a deceptive project, I will try to show what the data actually tells its viewer and how can it be manipulated to something completely different and misleading to convince people otherwise.  
 
 **Data:**
-The data I have found for this project is from Centers for Disease Control and Prevention data base by using their wisqars platform.  But before extracting the relevant data, following filters have  to be applied:
+The data I have found for this project is from Centers for Disease Control and Prevention database by using their wisqars platform.  But before extracting the relevant data, following filters have  to be applied:
 
-1. In report type go to Incidents of Violence and check the field All Violent Incident Counts and Percentages
+1. In report type, go to Incidents of Violence and check the field All Violent Incident Counts and Percentages
 2. Select suicide in intent or manner of injury based on the abstractor
 3. Select Firearm in cause or mechanism of the injury
 4. Select All years of report for the report generation 
@@ -47,7 +47,8 @@ This project will be based on exploration rather than confirmation.
 ### II. 	Development Process:  
 
 #### 1) Data wrangling:
-Data wrangling steps have been written in the python notebook. In order to show the deception I had to find population for every states for every year from google and incorporate that in the python notebook.
+Data wrangling steps have been written in the python notebook. In order to show the deception, I had to find population for every state for every year from Google and incorporate that in the python notebook.
+
 The web query used for the population was, just replacing the state and year in question:
 * https://www.google.com/searchrlz=1C5CHFA_enUS726US727&ei=e8QOWs_wO8uN0wLd2IfYAg&q=population+of+state+in++Year&oq=population+of+state+in++year&gs_l=psy-ab.3...724.2953.0.3336.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.ePY34O6oGUk
 
@@ -66,10 +67,17 @@ For the Pro No Gun Law- Seeing this visual they should realize if this is just t
 **Claim:  Why do Firearm Suicide Deaths & Percenatges show opposing trends ?**
 
 **Qualifier:**
-The qualifier for this data is take in such a way that every group is being represented. There are top gun restrictive states and then there are the least gun restrictive States for the deceptive project.
+The qualifier for this data is taken in such a way that every group is being represented. There are top gun restrictive states and then there are the least gun restrictive States for the deceptive project. The state Rankings in terms of their restriction on Guns from High to Low are as follows:
+1) New Jersey
+2) Massachusetts
+3) Maryland
+4) Alaska
+5) Oregon
+6) Virginia
+7) South Carolina
 
 **Data:**
-The data is collected from cdc which did a federal funded study in the 7 states which were New jersey, Massachusetts, Maryland,Alaska, Oregon, Virginia and South Carolina from 2003 to 2014.The data is highly credible and contamination free. 
+The data is collected from CDC which did a federally funded study in the 7 states which were New Jersey, Massachusetts, Maryland, Alaska, Oregon, Virginia and South Carolina from 2003 to 2014.The data is highly credible and contamination free. 
 
 **Warrant:**
 
@@ -90,7 +98,7 @@ The data is collected from cdc which did a federal funded study in the 7 states 
 
 * Cons: 
 1) The visual is incomplete and just shows the ranking based on which we can form different opinions 
-2) More data is needed to start showing the what I want to the people to see 
+2) We need the state data to clear tends and what has been happening 
 
 **Visualization 2:**
 <img width="1056" alt="screen shot 2017-11-17 at 2 07 32 am" src="https://user-images.githubusercontent.com/25557540/32941955-5f024b76-cb3c-11e7-8464-10d8251dc2e3.png">
@@ -98,10 +106,10 @@ The data is collected from cdc which did a federal funded study in the 7 states 
 * Pros:
 1) This visual is way better than my previous visual as it starts telling us a story 
 2) This visual is representing number of total suicides every year from 2003 to 2014 
-3) It also shows the distribution of avg. number of suicides to let the viewers form and idea in terms of which state  has more average suicide rate 
+3) It also shows the distribution of avg. number of suicides to let the viewers form an idea in terms of which state has a more average suicide rate 
 
 * Cons:
-1) The claim and  the visual still have no relation whatsoever. 
+1) The claim and the visual still have no relation whatsoever. 
 2) Something more can be done to better represent the data and show the objective of the visual 
 
 **Visualization 3:**
@@ -109,11 +117,11 @@ The data is collected from cdc which did a federal funded study in the 7 states 
 
 * Pros:
 1) This visual is again an extension of the previous visual and it has a trend!!!
-2) The best thing about this is that we can see how the rates have change over the year in suicide rates 
-3) Also the trend line indicates what the future holds for that state in terms of Gun Suicide if the relevant people don’t take any steps 
+2) The best thing about this is that we can see how the rates have changed over the year in suicide rates 
+3) Also, the trend line indicates what the future holds for that state in terms of Gun Suicide if the relevant people don’t take any steps 
 
 * Cons:
-1) Lot of colors and can be done more simply 
+1) Lot of colours and can be done more simply 
 2) Viewer might form an idea that is bad choice for a deceptive project as how can data be manipulated here 
 
 **Visualization 4:**
@@ -121,7 +129,7 @@ The data is collected from cdc which did a federal funded study in the 7 states 
 
 * Pros:
 1) This visual takes the most restrictive state and tries to represent Gun Suicides in that states
-2) The main purpose here was to let the viewers know the average  suicide numbers  in the Most restrictive state.
+2) The main purpose here was to let the viewers know the average suicide numbers in the Most restrictive state.
 3) This should make the viewer think if this is  just the suicide data than how would the visual look like if every gun homicide is included 
 
 * Cons:
@@ -169,13 +177,13 @@ The data is collected from cdc which did a federal funded study in the 7 states 
 
 **Visual 2:**
 
-* This is the interesting visualization where we can see the deception by just showing the percentage of population taking their own life using firearms. 
+* This is the interesting visualization where we can see the deception by just showing the percentage of the population taking their own life using firearms. 
 * The magic of percentage over data is clearly evident from this visualization 
 * Alaska has the least no of suicides but has the highest death percentage. A recent study has indicated as we move up up the latitude the suicide rate increase. The possible reasons could be that the people get depressed in cold dark regions very soon and just shoot themselves.
-* The reason why Alaska has the highest percentage here due to the fact that it has very low population and the suicide to population percentage is thus very high compared to others.
-* Again Oregon has lower no of deaths than south Carolina but has higher percentage of firearms than South Carolina as when we take population in account the,  their size becomes a really important part of this discussion 
+* The reason why Alaska has the highest percentage here due to the fact that it has a very low population and the suicide to population percentage is thus very high compared to others.
+* Again Oregon has lower no of deaths than South Carolina but has higher percentage of firearms than South Carolina as when we take population in account the,  their size becomes a really important part of this discussion 
 * Virginia has the highest gun suicide numbers but its somewhere in the middle when it comes to death by population percentage because of the fact that Virginia has a population of approx. 8 million.
-* The top 3 most gun restrictive state follow the same trend as the earlier graph as the they don’t have a very big gap in population and more importantly the ratio of the death to population is not very big
+* The top 3 most gun restrictive state follow the same trend as the earlier graph as they don’t have a very big gap in population and more importantly the ratio of the death to population is not very big
 
 
 ******************************************************************************************************************************
