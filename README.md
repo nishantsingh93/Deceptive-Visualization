@@ -57,8 +57,13 @@ The web query used for the population was, just replacing the state and year in 
 For doing this deceptive visualization I  went through many articles studying about the gun violence and in particular suicides cases where some form of guns were used.  
 
 **Audience:**
+The audience of this visualization is the people who have been either pro-Gun Law or Pro No Gun Law. 
 
-**Claim:** 
+For the pro-gun Law supporters, a  case can be made that suicides increase when there is an easy an access to guns as people who are depressed or unwell have an easy way out by just shootings themselves. 
+
+For the Pro No Gun Law- Seeing this visual they should realize if this is just the suicide data alone then how would the visual look like if every gun-related death has been included. Some of these states have very few population and a high percentage of suicide just by guns is a cause for concern for everyone. 
+
+**Claim:  Why do Firearm Suicide Deaths & Percenatges show opposing trends ?**
 
 **Qualifier:**
 The qualifier for this data is take in such a way that every group is being represented. There are top gun restrictive states and then there are the least gun restrictive States for the deceptive project.
