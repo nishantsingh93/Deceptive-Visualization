@@ -5,6 +5,7 @@
 
 ###### Date: 17th Nov 2017                                                                                                     
 ###### Tableau Visual: https://public.tableau.com/views/Deception/Dashboard1?:embed=y&:display_count=yes
+###### Youtube Link: https://youtu.be/aLIijp6EvVg
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
@@ -64,7 +65,7 @@ For the pro-gun Law supporters, a  case can be made that suicides increase when 
 
 For the Pro No Gun Law- Seeing this visual they should realize if this is just the suicide data alone then how would the visual look like if every gun-related death has been included. Some of these states have very few population and a high percentage of suicide just by guns is a cause for concern for everyone. 
 
-**Claim:  Firearm Suicide Deaths & Percenatges show opposing trends!!**
+**Claim:  Firearm Suicide Deaths & Percentages show opposing trends!!**
 
 **Qualifier:**
 The qualifier for this data is taken in such a way that every group is being represented. There are top gun restrictive states and then there are the least gun restrictive States for the deceptive project. The state Rankings in terms of their restriction on Guns from High to Low are as follows:
