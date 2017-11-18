@@ -193,6 +193,7 @@ Colour Code is Same throughout the Visualization. The reason it has been done so
 * Virginia has the highest gun suicide numbers but its somewhere in the middle when it comes to death by population percentage because of the fact that Virginia has a population of approx. 8 million.
 * The top 3 most gun restrictive state follow the same trend as the earlier graph as they don’t have a very big gap in population and more importantly the ratio of the death to population is not very big
 
+**Conclusion:** Therefore a finall conclusion that can be made from this deceptive project is that if the auidence was only shown the second visualization it could have been very misleading beacuse a state such Alska will always show a higher percentage beacuse the ratio of Gun suicde to population is always greater than other states beacuse Alaska has a really low population and a state like virginia which has the highest population between all the states that is represented here will show a log suicide percentage because of the fact that suicide to population is very low.
 
 ******************************************************************************************************************************
 
