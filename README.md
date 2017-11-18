@@ -4,7 +4,7 @@
 # Deceptive Visualization- Gun Suicides in US 
 
 ###### Date: 17th Nov 2017                                                                                                     
-###### Tableau Visual: https://public.tableau.com/views/Deception/Dashboard1?:embed=y&:display_count=yes&publish=yes
+###### Tableau Visual: https://public.tableau.com/views/Deception/Dashboard1?:embed=y&:display_count=yes
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
