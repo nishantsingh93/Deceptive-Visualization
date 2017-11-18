@@ -170,7 +170,7 @@ Colour Code is Same throughout the Visualization. The reason it has been done so
 
 <img width="1100" alt="screen shot 2017-11-17 at 3 44 21 pm" src="https://user-images.githubusercontent.com/25557540/32973780-7e92d362-cbae-11e7-87db-c84c788d6fe5.png">
 
-#### Discusiion: 
+#### Discussion: 
 
 **Visual 1:**
 * In the final visualization, we can see that there is no actual trend between the suicide by firearm and the gun restrictiveness of the state
@@ -194,19 +194,20 @@ Colour Code is Same throughout the Visualization. The reason it has been done so
 
 
 ******************************************************************************************************************************
+
 ### V. Future Enhancements:
 
 1) Improvement - Include more data from other states to form a better case and more concrete evidence 
-*  Outcome - 
+*  Outcome - If this is implemented, a better understanding of the situation can be achieved as Us has 50 States and this data represents only seven states.
 2) Improvement - Add data From different Gun Violence sources such as Gun homicides, Mass shootings, robbery 
-*  Outcome -
+*  Outcome - If we include every gun-related death data from every state, a lot of questions can be answered and training sets can be created to do a prescriptive analysis.
 3) Improvement - Add data for the type of guns that were most commonly being used to see which firearms are causing more harm to the society 
-*  Outcome -
-
+*  Outcome - Adding and analyzing the data after the above enhancement has been performed will let the audience know which types of Firearms cause more injury over the others 
 3) Improvement - Include mental data to understand the underlying cause for these suicides 
-*  Outcome -
+*  Outcome - The mental data from all the people who either kill themselves or the others can help discover why do they do what they do, and understand the triggers that led them to that point.
 
 ******************************************************************************************************************************
+
 ### VI. References:
 
 * http://www.slate.com/blogs/the_slatest/2015/10/07/gun_control_laws_by_state_oregon_new_york_texas_california.html
