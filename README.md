@@ -169,7 +169,7 @@ Colour Code is Same throughout the Visualization. The reason it has been done so
 
 ### IV.	Final data visualization:
 
-<img width="1100" alt="screen shot 2017-11-17 at 3 44 21 pm" src="https://user-images.githubusercontent.com/25557540/32973780-7e92d362-cbae-11e7-87db-c84c788d6fe5.png">
+![dashboard 1](https://user-images.githubusercontent.com/25557540/32976541-df373ff0-cbcc-11e7-8f12-9bc837307765.png)
 
 #### Discussion: 
 
